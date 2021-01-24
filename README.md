@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Roma 👋
 
 - 🔭 I’m currently not working (waiting for job offers 😅)
 - 🌱 I’m currently learning many different technologies 🖥️
@@ -15,6 +15,8 @@
 
 ### Languages and Tools:
 
+[<img align="left" alt="VSCode" width="26px" src="https://user-images.githubusercontent.com/43007323/105631917-deef5e80-5e61-11eb-9239-5762733aabb0.png" />][vscode]
+[<img align="left" alt="VS" width="26px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" />][vs]
 [<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/43007323/105617744-b2036300-5df1-11eb-97e6-b9ed0e97d390.png" />][html]
 [<img align="left" alt="CSS3" width="26px" src="https://user-images.githubusercontent.com/43007323/105617791-2b02ba80-5df2-11eb-8ee9-0facf0733adc.png" />][css]
 [<img align="left" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/43007323/105617815-59809580-5df2-11eb-9534-0ee1ada3f731.png" />][js]
@@ -36,6 +38,8 @@
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [c#]: https://docs.microsoft.com/en-us/dotnet/csharp/
+[vscode]: https://code.visualstudio.com/
+[vs]: https://visualstudio.microsoft.com/
 [react]: https://reactjs.org/
 [node]: https://nodejs.org/en/
 [sql]: https://www.w3schools.com/sql/sql_intro.asp
