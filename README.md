@@ -1,9 +1,8 @@
 ### Hi there, I'm Roma 👋
 
-- 🔭 I’m currently not working (waiting for job offers 😅)
+- 🔭 I’m currently working on the best company 😎
 - 🌱 I’m currently learning many different technologies 🖥️
 - 👯 I’m looking to collaborate with everyone who is interested in collaborate 💡
-- 🤔 I’m looking for help with job offers 😉
 - ⚡ Fun fact: I don't like to sleep and I like to play the guitar 🎸
 
 ### Connect with me:
